@@ -6,6 +6,3 @@ Exploring Visual Narrative Flows in Infographics
 * Freepik : dataset/freepik.csv
 * Shuttersstock: dataset/shutteerstock.csv
 
-## Trained Yolo Model
-
-* tba
