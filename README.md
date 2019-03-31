@@ -3,6 +3,6 @@ Exploring Visual Narrative Flows in Infographics
 
 ## InfoVNF Dataset
 
-* Freepik : dataset/freepik.csv
-* Shuttersstock: dataset/shutteerstock.csv
+* Freepik : dataset/info_url_700.csv
+* Shuttersstock: dataset/info_ss_url_700.csv
 
